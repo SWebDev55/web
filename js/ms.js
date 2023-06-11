@@ -1,7 +1,7 @@
 
-var urlList = ['xoso6600.com','xoso6611.com', 'xoso6622.com', 'xoso6633.com',
-	'xoso6644.com',
-	'xoso6655.com' 
+var urlList = ['Hay88.plus','Hay88.one', 'Hay88.mobi', 'Hay88.fun',
+	'Hay88.net',
+	'hay88.org' 
 ];
 
 function urlli() {
