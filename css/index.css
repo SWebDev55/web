@@ -37,7 +37,7 @@ body{
 }
 .btnBox{
 	position: absolute;
-	top: 42%;
+	top: 50%;
 	left: 50%;
 	right: 50%;
 	width: 750px;
@@ -45,7 +45,7 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	transform: translateX(-50%) translateY(-32%);
+	transform: translateX(-50%) translateY(0%);
 }
 .titleImg{
 	position: absolute;
@@ -76,7 +76,7 @@ body{
 	display: none;
 	position: absolute;
 	left: 0;
-	bottom: 84px;
+	bottom: 90px;
 	width: 730px;
 	background: rgba(179,10,10,.9);
 	border: 1px #f60 solid;
